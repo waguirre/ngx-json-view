@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/twp0217/ngx-json-view#readme",
   "devDependencies": {
+    "@angular/cli": "^8.0.1",
     "@angular/common": "^4.0.0",
     "@angular/compiler": "^4.0.0",
     "@angular/compiler-cli": "^4.0.0",
